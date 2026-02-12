@@ -87,6 +87,10 @@ Fetches and displays the connected wallet's XLM balance from Horizon API.
 ### SendTransaction
 Builds, signs (via Freighter), and submits XLM payment transactions to Stellar testnet.
 
+## Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## Level 1 Requirements Checklist
 
 - [x] Wallet Setup (Freighter on Stellar Testnet)
